@@ -17,7 +17,6 @@
 
 # Icons
 - Icons to add
-  - [ActivityPub](https://activitypub.rocks/)
   - Joomla
 
 - Icons that I can't find

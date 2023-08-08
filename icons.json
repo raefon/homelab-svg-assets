@@ -7,6 +7,12 @@
             "guidelines": "https://github.com/dotnet/brand"
         },
         {
+            "path": "./assets/activitypub.svg",
+            "name": "ActivityPub",
+            "source": "https://activitypub.rocks/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/adafruit.svg",
             "name": "Adafruit",
             "source": "https://www.adafruit.com/",
@@ -1375,6 +1381,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/kbin.svg",
+            "name": "Kbin",
+            "source": "https://codeberg.org/Kbin/kbin-core/src/branch/develop/public/kbin_logo.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/kde.svg",
             "name": "KDE",
             "source": "https://kde.org/stuff/clipart/",
@@ -2075,6 +2087,12 @@
             "name": "Packer",
             "source": "https://www.hashicorp.com/brand",
             "guidelines": "https://www.hashicorp.com/brand"
+        },
+        {
+            "path": "./assets/pairdrop.svg",
+            "name": "PairDrop (fork of SnapDrop)",
+            "source": "https://pairdrop.net/",
+            "guidelines": ""
         },
         {
             "path": "./assets/paperlessng.svg",
