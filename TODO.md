@@ -35,9 +35,9 @@
   - Glances - Can't find a SVG of this
   - ~~[Gotify](https://github.com/gotify/website/issues/67)~~
   - ~~[Handbrake](https://github.com/HandBrake/HandBrake/issues/4749)~~ - No original SVG exists
-  - Heroku - Their [brand](https://brand.heroku.com/) page doesn't work
   - ~~[Jackett](https://github.com/Jackett/Jackett/issues/13789)~~
-  - LazyLibrarian - Can't find a SVG of this
+  - Jellystat - Can't find a SVG of this (icons [here](https://github.com/CyferShepard/Jellystat/tree/main/src/pages/images) have PNG data embedded in them)
+  - LazyLibrarian - Can't find a SVG of this (icons [here](https://lazylibrarian.gitlab.io/) have PNG data embedded in them)
   - Matomo - Can't find a SVG of this (icons [here](https://matomo.org/trademark/) have PNG data embedded in them)
   - [Mylar3](https://github.com/mylar3/mylar3/issues/1358)
   - Observium - Can't find a SVG of this
