@@ -18,6 +18,13 @@
 # Icons
 - Icons to add
   - Joomla
+  - Excalidraw https://github.com/excalidraw/excalidraw/blob/master/public/favicon.svg\
+  - FSharp https://foundation.fsharp.org/logo
+  - Gogs https://github.com/gogs/brand-kit/blob/main/icon/gogs-logo.svg
+  - Rocket.chat https://docs.rocket.chat/docs/logo
+  - Trilium https://github.com/zadam/trilium/blob/master/images/icon-color.svg
+  - Vulkan https://www.khronos.org/legal/trademarks
+  - WebGPU https://www.w3.org/2023/02/webgpu-logos.html
 
 - Icons that I can't find
   - Adminer - Can't find a SVG of this (this software hasn't had an update since [2021-05-23](https://github.com/vrana/adminer/commit/88647b93e467210f270340e758af6771e2c5638a))
@@ -42,19 +49,21 @@
   - [Mylar3](https://github.com/mylar3/mylar3/issues/1358)
   - Observium - Can't find a SVG of this
   - ~~[Ombi](https://github.com/Ombi-app/Ombi/issues/4834)~~
+  - ~~[Planka](https://github.com/plankanban/planka/issues/605)~~
   - Postfix - Can't find a SVG of this
   - iRedMail - Can't find a SVG of this
-  - [SemVer](https://github.com/semver/semver.org/issues/399)
+  - ~~[SemVer](https://github.com/semver/semver.org/issues/399)~~
   - Tdarr - Can't find a SVG of this
   - ~~[Telegraf](https://github.com/influxdata/telegraf/issues/12327)~~
   - Virtualmin and Webmin - Email sent on 2023-04-21
   - ~~[Watchtower](https://github.com/containrrr/watchtower/issues/1510)~~
-  - [Wizarr](https://github.com/Wizarrrr/wizarr/issues/139)
+  - ~~[Wizarr](https://github.com/Wizarrrr/wizarr/issues/139)~~
   - ~~[XCP-ng](https://github.com/xcp-ng/xcp/issues/583)~~
   - [ZeroTier](https://github.com/zerotier/docs/issues/50)
   - Zigbee2MQTT - This SVG is a mess
 
 - Icons that don't touch the edges (possibly need to be replaced?)
+  - Arc
   - Audacity
   - CyberChef
   - LXC
