@@ -2677,8 +2677,20 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/radarr-4k-dark.svg",
+            "name": "Radarr (4K, dark)",
+            "source": "https://github.com/Radarr/Radarr/blob/develop/Logo/Radarr.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/radarr-light.svg",
             "name": "Radarr (light)",
+            "source": "https://github.com/Radarr/Radarr/blob/develop/frontend/src/Content/Images/logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/radarr-4k-light.svg",
+            "name": "Radarr (4K, light)",
             "source": "https://github.com/Radarr/Radarr/blob/develop/frontend/src/Content/Images/logo.svg",
             "guidelines": ""
         },
@@ -2937,6 +2949,12 @@
         {
             "path": "./assets/sonarr.svg",
             "name": "Sonarr",
+            "source": "https://github.com/Sonarr/Sonarr/blob/develop/Logo/Sonarr.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/sonarr-4k.svg",
+            "name": "Sonarr (4K)",
             "source": "https://github.com/Sonarr/Sonarr/blob/develop/Logo/Sonarr.svg",
             "guidelines": ""
         },
